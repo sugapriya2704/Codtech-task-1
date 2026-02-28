@@ -29,7 +29,11 @@ DAX (Data Analysis Expressions) – For advanced calculations and metrics.
 
 
 output:
-![Uploading WhatsApp Image 2026-02-28 at 10.40.59 PM.jpeg…]()
+
+![WhatsApp Image 2026-02-28 at 10 40 59 PM](https://github.com/user-attachments/assets/b4812498-d00b-41e1-befa-c2623c4f66a2)
+
+
+
 
 
 Data Visualization Best Practices – Applied to ensure clarity and actionable insights.
