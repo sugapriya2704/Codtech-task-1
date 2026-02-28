@@ -27,6 +27,11 @@ Data Transformation & Cleaning – Using Power Query to ensure accurate reportin
 
 DAX (Data Analysis Expressions) – For advanced calculations and metrics.
 
+
+output:
+![Uploading WhatsApp Image 2026-02-28 at 10.40.59 PM.jpeg…]()
+
+
 Data Visualization Best Practices – Applied to ensure clarity and actionable insights.
 
 **Outcome / Impact ** Enabled stakeholders to track sales trends, identify revenue drivers, and optimize category strategies.
